@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Denys</h1>
-<h3 align="center">A beginner frontend developer from Ukraine</h3>
+<h3 align="center" style="color: #4CAF50;">A passionate frontend developer from Ukraine</h3>
 
-<p align="center">
-  🌱 I’m currently learning <strong>React</strong> <br>
-  📫 How to reach me: <a href="mailto:denyagarkusha2@gmail.com">denyagarkusha2@gmail.com</a> <br>
-  ⚡ Fun fact: <strong>I like basketball and chess</strong>
-</p>
+<div align="center">
+  <p>
+    🌱 <strong>Currently learning:</strong> <span style="color: #61DAFB;">React</span>
+  </p>
+  <p>
+    📫 <strong>Contact me:</strong> 
+    <a href="mailto:denyagarkusha2@gmail.com" style="color: #FF5722; text-decoration: none;">
+      denyagarkusha2@gmail.com
+    </a>
+  </p>
+  <p>
+    ⚡ <strong>Fun fact:</strong> <span style="font-style: italic; color: #795548;">I enjoy basketball and chess</span>
+  </p>
+</div>
+
 
 ---
 
