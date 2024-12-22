@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **I like basketball and chess**
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenysHV1&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHV1&layout=compact&theme=radical)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
