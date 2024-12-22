@@ -45,12 +45,51 @@
 ---
 
 <h3 align="center">🎨 Favorite Projects</h3>
-<ul>
-  <li>🎞️ <a href="https://react-cinema-five.vercel.app/" target="_blank"><strong>Online Cinema</strong></a></li>
-  <li>🖼️ <a href="https://goit-react-hw-08-omega-roan.vercel.app/" target="_blank"><strong>Personal Contact Book</strong></a></li>
-  <li>▶️ <a href="https://denyshv1.github.io/tic-tac-toe/" target="_blank"><strong>Tic Tac Toe</strong></a></li>
-  <li>📃 <a href="https://denyshv1.github.io/todoList-react/" target="_blank"><strong>To-Do List</strong></a></li>
-</ul>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h4>🎞️ Online Cinema</h4>
+        <p>
+          Watch movies online with a modern UI. Built with React.
+        </p>
+        <a href="https://react-cinema-five.vercel.app/" target="_blank">
+          <strong>Visit Project</strong>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h4>🖼️ Personal Contact Book</h4>
+        <p>
+          Manage your contacts efficiently. Created using React and Redux.
+        </p>
+        <a href="https://goit-react-hw-08-omega-roan.vercel.app/" target="_blank">
+          <strong>Visit Project</strong>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h4>▶️ Tic Tac Toe</h4>
+        <p>
+          A fun game of Tic Tac Toe. Fully responsive design.
+        </p>
+        <a href="https://denyshv1.github.io/tic-tac-toe/" target="_blank">
+          <strong>Visit Project</strong>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h4>📃 To-Do List</h4>
+        <p>
+          Organize tasks with this React-based To-Do app.
+        </p>
+        <a href="https://denyshv1.github.io/todoList-react/" target="_blank">
+          <strong>Visit Project</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
