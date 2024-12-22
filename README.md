@@ -58,7 +58,7 @@
         </a>
       </td>
       <td align="center" width="50%">
-        <h4>🖼️ Personal Contact Book</h4>
+        <h4>📚 Personal Contact Book</h4>
         <p>
           Manage your contacts efficiently. Created using React and Redux.
         </p>
@@ -69,7 +69,7 @@
     </tr>
     <tr>
       <td align="center" width="50%">
-        <h4>▶️ Tic Tac Toe</h4>
+        <h4>❌⭕️ Tic Tac Toe</h4>
         <p>
           A fun game of Tic Tac Toe. Fully responsive design.
         </p>
