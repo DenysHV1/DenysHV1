@@ -56,6 +56,6 @@
 
 <h2 align="center">📌 All My Projects</h2>
 <p align="center">
-  Check out all my projects <a href="https://denyshv1.github.io/DENYS_HV-PORTFOLIO/" target="_blank"><strong>here ⏬</strong></a>.
+  Check out all my projects <a href="https://denyshv1.github.io/DENYS_HV-PORTFOLIO/" target="_blank"><strong>in portfolio ⏬</strong></a>.
 </p>
 
