@@ -7,8 +7,9 @@
 
 - ⚡ Fun fact **I like basketball and chess**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenysHV1&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHV1&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenysHV1&show_icons=true&theme=algolia&count_private=false)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHV1&layout=compact&theme=algolia)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -18,18 +19,15 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://braincavesoft.com/main/images/icons/typescript.png" alt="TypeScript" width="40" height="40"/> </a> 
 
-
- 
-</p>
 
 <h3 align="left">All my projects is here ⏬</h3>
  - 📒 <a href="https://denyshv1.github.io/DENYS_HV-PORTFOLIO/" target="_blank">PORTFOLIO</a><br>
 
 <h3 align="left">This is my favorite projects:</h3>
- - 🎞️ <a href="https://goit-react-hw-05-sooty-rho.vercel.app/" target="_blank">Films info</a> <br>
- - 🖼️ <a href="https://denyshv1.github.io/DENYS_HV-PORTFOLIO/api-visuals.html" target="_blank">Gallery</a><br>
+ - 🎞️ <a href="https://react-cinema-five.vercel.app/" target="_blank">Online Сinema</a> <br>
+ - 🖼️ <a href="https://goit-react-hw-08-omega-roan.vercel.app/" target="_blank">Personal Сontact Book</a><br>
  - ▶️ <a href="https://denyshv1.github.io/tic-tac-toe/" target="_blank">Tic tac toe </a><br>
  - 📃 <a href="https://denyshv1.github.io/todoList-react/" target="_blank">To do list</a><br>
 
