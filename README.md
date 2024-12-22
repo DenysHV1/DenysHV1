@@ -44,11 +44,6 @@
 
 ---
 
-<h2 align="center">🌟 Featured Projects</h2>
-<p align="center">
-  📒 <a href="https://denyshv1.github.io/DENYS_HV-PORTFOLIO/" target="_blank"><strong>My Portfolio</strong></a><br>
-</p>
-
 <h3 align="center">🎨 Favorite Projects</h3>
 <ul>
   <li>🎞️ <a href="https://react-cinema-five.vercel.app/" target="_blank"><strong>Online Cinema</strong></a></li>
