@@ -63,7 +63,7 @@
         <p>
           Watch movies online with a modern UI. Built with React.
         </p>
-        <a href="https://react-cinema-five.vercel.app/" target="_blank">
+        <a href="https://react-films-zeta.vercel.app/" target="_blank">
           <strong>Visit Project</strong>
         </a>
       </td>
@@ -72,7 +72,7 @@
         <p>
           Manage your contacts efficiently. Created using React and Redux.
         </p>
-        <a href="https://goit-react-hw-08-omega-roan.vercel.app/" target="_blank">
+        <a href="https://contack-book-two.vercel.app/" target="_blank">
           <strong>Visit Project</strong>
         </a>
       </td>
