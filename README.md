@@ -67,15 +67,6 @@
           <strong>Visit Project</strong>
         </a>
       </td>
-            <td align="center" width="50%">
-        <h4>🌞 Weather</h4>
-        <p>
-          Watch weather better.
-        </p>
-        <a href="https://den-vik-weather.vercel.app/" target="_blank">
-          <strong>Visit Project</strong>
-        </a>
-      </td>
       <td align="center" width="50%">
         <h4>📚 Personal Contact Book</h4>
         <p>
@@ -93,6 +84,15 @@
           A fun game of Tic Tac Toe. Fully responsive design.
         </p>
         <a href="https://denyshv1.github.io/tic-tac-toe/" target="_blank">
+          <strong>Visit Project</strong>
+        </a>
+      </td>
+                  <td align="center" width="50%">
+        <h4>🌞 Weather</h4>
+        <p>
+          Watch weather better.
+        </p>
+        <a href="https://den-vik-weather.vercel.app/" target="_blank">
           <strong>Visit Project</strong>
         </a>
       </td>
