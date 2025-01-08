@@ -67,6 +67,15 @@
           <strong>Visit Project</strong>
         </a>
       </td>
+            <td align="center" width="50%">
+        <h4>🌞 Weather</h4>
+        <p>
+          Watch weather better.
+        </p>
+        <a href="https://den-vik-weather.vercel.app/" target="_blank">
+          <strong>Visit Project</strong>
+        </a>
+      </td>
       <td align="center" width="50%">
         <h4>📚 Personal Contact Book</h4>
         <p>
