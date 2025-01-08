@@ -96,15 +96,6 @@
           <strong>Visit Project</strong>
         </a>
       </td>
-      <td align="center" width="50%">
-        <h4>📃 To-Do List</h4>
-        <p>
-          Organize tasks with this React-based To-Do app.
-        </p>
-        <a href="https://denyshv1.github.io/todoList-react/" target="_blank">
-          <strong>Visit Project</strong>
-        </a>
-      </td>
     </tr>
   </table>
 </div>
