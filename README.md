@@ -79,7 +79,7 @@
     </tr>
     <tr>
       <td align="center" width="50%">
-        <h4>🎮 Tic Tac Toe</h4>
+        <h4>🎮 wingametraill</h4>
         <p>
           Project for Evoplay company.
         </p>
