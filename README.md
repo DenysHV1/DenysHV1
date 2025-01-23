@@ -79,11 +79,11 @@
     </tr>
     <tr>
       <td align="center" width="50%">
-        <h4>❌⭕️ Tic Tac Toe</h4>
+        <h4>🎮 Tic Tac Toe</h4>
         <p>
-          A fun game of Tic Tac Toe. Fully responsive design.
+          Project for Evoplay company.
         </p>
-        <a href="https://denyshv1.github.io/tic-tac-toe/" target="_blank">
+        <a href="https://denyshv1.github.io/wingametraill/" target="_blank">
           <strong>Visit Project</strong>
         </a>
       </td>
