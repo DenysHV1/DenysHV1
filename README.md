@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Denys</h1>
-<h3 align="center" style="color: #4CAF50;">A passionate frontend developer from Ukraine</h3>
+<h3 align="center" style="color: #4CAF50;">A passionate full-stack developer from Ukraine</h3>
 
 <div align="center">
   <p>
-    🌱 <strong>Currently learning:</strong> <span style="color: #61DAFB;">React</span>
+    🌱 <strong>Currently learning:</strong> <span style="color: #61DAFB;">Node.js</span>
   </p>
   <p>
     📫 <strong>Contact me:</strong> 
