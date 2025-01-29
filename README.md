@@ -22,7 +22,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DenysHV1&show_icons=true&theme=algolia&count_private=false&hide=issues&cache_seconds=1800" alt="GitHub Stats" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHV1&layout=compact&theme=algolia&cache_seconds=1800" alt="Top Languages" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHV1&layout=compact&theme=algolia&cache_seconds=1800" alt="Top Languages" width="33%" />
 </div>
 
 ---
