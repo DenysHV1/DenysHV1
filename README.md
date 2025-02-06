@@ -17,7 +17,7 @@
   </p>
 </div>
 
-### Languages:
+<h2 style={ display: block;}>Languages:</h2> 
 
 <table align="left">
   <tr>
@@ -31,7 +31,7 @@
 ---
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style={ display: block;}>Languages and Tools:</h3>
 <table>
   <tr>
     <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/><br>HTML5</a></td>
@@ -53,7 +53,7 @@
 ---
 
 
-<h2>GitHub Stats:</h2> 
+<h2 style={ display: block;}>GitHub Stats:</h2> 
 
 <table align="left">
   <tr>
@@ -79,7 +79,7 @@
 
 ---
 
-<h3 align="left">🎨 Favorite Projects</h3>
+<h3 align="left" style={ display: block;}>🎨 Favorite Projects</h3>
 <table>
   <tr>
     <td align="left">
