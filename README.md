@@ -16,41 +16,64 @@
   </p>
 </div>
 
+### Languages :
 
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr>
+    
+        🇺🇦 Ukrainian - Native
+        
+  </tr>
+
+  <tr>
+    
+        🇬🇧 English - Intermediate
+        
+  </tr>
+</table>
+</div>
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DenysHV1&show_icons=true&theme=algolia&count_private=false&hide=issues&cache_seconds=1800" alt="GitHub Stats" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHV1&layout=compact&theme=algolia&cache_seconds=1800" alt="Top Languages" width="33%" />
-</div>
+### GitHub Stats :
+
+<table align="center">
+  <tr>
+  <td>
+  <a href="https://github.com/DenysHV1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DenysHV1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Denys Harkusha github stats" /></a>
+  </td>
+  <td>
+  <a href="https://github.com/DenysHV1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHV1&layout=compact&theme=buefy&hide_border=true" /></a>
+  </td>
+  </tr>
+  <tr>
+  <td colspan=2 align="center">
+  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=DenysHV1&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Denys Harkusha GitHub Readme Streak Stats" /> </a>
+  </td>
+  </tr>
+</table>
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
-    <td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/><br>CSS3</a></td>
-    <td align="center"><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/><br>Express.js</a></td>
-    <td align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/><br>Figma</a></td>
-    <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/><br>Git</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/><br>HTML5</a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><br>JavaScript</a></td>
-    <td align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/><br>MongoDB</a></td>
+    <td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/><br>CSS3</a></td>
+<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><br>JavaScript</a></td>
+        <td align="center"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><br>TypeScript</a></td>
+    <td align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/><br>React</a></td>
+    <td align="center"><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/><br>React Native</a></td>
     <td align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/><br>Node.js</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/><br>React</a></td>
-    <td align="center"><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/><br>React Native</a></td>
-    <td align="center"><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/><br>Redux</a></td>
+        <td align="center"><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/><br>Express.js</a></td>
+    <td align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/><br>Figma</a></td>
+    <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/><br>Git</a></td>
+    <td align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/><br>MongoDB</a></td>
+        <td align="center"><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/><br>Redux</a></td>
     <td align="center"><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/><br>Sass</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><br>TypeScript</a></td>
-    <td align="center"><a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/><br>Webpack</a></td>
-  </tr>
+        <td align="center"><a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/><br>Webpack</a></td>
 </table>
 
 ---
