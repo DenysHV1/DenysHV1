@@ -22,15 +22,11 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table  align="center">
   <tr>
-    
-        🇺🇦 Ukrainian - Native
-        
+        🇺🇦 Ukrainian - Native  
   </tr>
 
   <tr>
-    
         🇬🇧 English - Intermediate
-        
   </tr>
 </table>
 </div>
