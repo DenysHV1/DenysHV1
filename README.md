@@ -17,7 +17,7 @@
   </p>
 </div>
 
-### Languages:
+<h2>Languages:</h2>
 
 <table align="left">
   <tr>
@@ -30,7 +30,7 @@
 
 ---
 
-### GitHub Stats:
+<h2>GitHub Stats:</h2> 
 
 <table align="left">
   <tr>
