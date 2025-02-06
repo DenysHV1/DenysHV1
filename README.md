@@ -65,20 +65,7 @@
 <table align="center">
   <tr>
   <td>
-{
-  user(login: "DenysHV1") {
-    contributionsCollection(from: "2024-02-06T00:00:00Z") {
-      commitContributionsByRepository(maxRepositories: 100) {
-        repository {
-          name
-        }
-        contributions {
-          totalCount
-        }
-      }
-    }
-  }
-}
+<a href="https://github.com/DenysHV1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DenysHV1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DenysHV1 github stats" /></a>
   </td>
   <td>
   <a href="https://github.com/DenysHV1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHV1&layout=compact&theme=buefy&hide_border=true" /></a>
