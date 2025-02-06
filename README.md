@@ -62,7 +62,7 @@
 
 ### GitHub Stats :
 
-<table align="center">
+<table align="left">
   <tr>
   <td>
   <a href="https://github.com/DenysHV1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DenysHV1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DenysHV1 github stats" /></a>
@@ -104,7 +104,6 @@
     </tr>
   </table>
 </div>
----
 
 <h2 align="left">📌 All My Projects</h2>
 <p align="left">
