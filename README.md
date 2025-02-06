@@ -17,7 +17,7 @@
   </p>
 </div>
 
-<h2>Languages:</h2>
+### Languages:
 
 <table align="left">
   <tr>
