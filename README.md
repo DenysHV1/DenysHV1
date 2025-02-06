@@ -36,7 +36,7 @@
   <tr>
     <td>
       <a href="https://github.com/DenysHV1/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=DenysHV1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Denys Harkusha GitHub Stats"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=DenysHV1&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Denys Harkusha GitHub Stats"/>
       </a>
     </td>
     <td>
@@ -111,5 +111,3 @@
 <p align="left">
   Check out all my projects <a href="https://denyshv1.github.io/DENYS_HV-PORTFOLIO/" target="_blank"><strong>in portfolio ⏬</strong></a>.
 </p>
-
-
