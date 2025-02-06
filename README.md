@@ -60,27 +60,21 @@
 ---
 
 
-<h2 style={ display: block;}>GitHub Stats:</h2> 
+### GitHub Stats :
 
-<table align="left">
+<table align="center">
   <tr>
-    <td>
-      <a href="https://github.com/DenysHV1/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=DenysHV1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Denys Harkusha GitHub Stats"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/DenysHV1/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHV1&layout=compact&theme=buefy&hide_border=true" />
-      </a>
-    </td>
+  <td>
+  <a href="https://github.com/DenysHV1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DenysHV1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DenysHV1 github stats" /></a>
+  </td>
+  <td>
+  <a href="https://github.com/DenysHV1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHV1&layout=compact&theme=buefy&hide_border=true" /></a>
+  </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=DenysHV1&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"/>
-      </a>
-    </td>
+  <td colspan=2 align="center">
+  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=DenysHV1&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="DenysHV1 GitHub Readme Streak Stats" /> </a>
+  </td>
   </tr>
 </table>
 
