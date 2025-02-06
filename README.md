@@ -86,34 +86,35 @@
 
 ---
 
-<h2 align="left" style={ display: block;}>🎨 Favorite Projects</h2>
-<table>
-  <tr>
-    <td align="left">
-      <h4>🎞️ Online Cinema</h4>
-      <p>Watch movies online with a modern UI. Built with React.</p>
-      <a href="https://react-films-zeta.vercel.app/" target="_blank"><strong>Visit Project</strong></a>
-    </td>
-    <td align="left">
-      <h4>📚 Personal Contact Book</h4>
-      <p>Manage your contacts efficiently. Created using React and Redux.</p>
-      <a href="https://contack-book-two.vercel.app/" target="_blank"><strong>Visit Project</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <h4>🎮 WinGameTrail</h4>
-      <p>Project for Evoplay company.</p>
-      <a href="https://denyshv1.github.io/wingametraill/" target="_blank"><strong>Visit Project</strong></a>
-    </td>
-    <td align="left">
-      <h4>🌞 Weather App</h4>
-      <p>Get real-time weather updates with a clean UI.</p>
-      <a href="https://den-vik-weather.vercel.app/" target="_blank"><strong>Visit Project</strong></a>
-    </td>
-  </tr>
-</table>
-
+### 🎨 Favorite Projects:
+<div>
+  <table>
+    <tr>
+      <td align="left">
+        <h4>🎞️ Online Cinema</h4>
+        <p>Watch movies online with a modern UI. Built with React.</p>
+        <a href="https://react-films-zeta.vercel.app/" target="_blank"><strong>Visit Project</strong></a>
+      </td>
+      <td align="left">
+        <h4>📚 Personal Contact Book</h4>
+        <p>Manage your contacts efficiently. Created using React and Redux.</p>
+        <a href="https://contack-book-two.vercel.app/" target="_blank"><strong>Visit Project</strong></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <h4>🎮 WinGameTrail</h4>
+        <p>Project for Evoplay company.</p>
+        <a href="https://denyshv1.github.io/wingametraill/" target="_blank"><strong>Visit Project</strong></a>
+      </td>
+      <td align="left">
+        <h4>🌞 Weather App</h4>
+        <p>Get real-time weather updates with a clean UI.</p>
+        <a href="https://den-vik-weather.vercel.app/" target="_blank"><strong>Visit Project</strong></a>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 <h2 align="left">📌 All My Projects</h2>
