@@ -17,16 +17,23 @@
   </p>
 </div>
 
-<h2 style={ display: block;}>Languages:</h2> 
+### Languages :
 
-<table align="left">
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
   <tr>
-    <td>🇺🇦 Ukrainian - Native</td>
+    
+        🇺🇦 Ukrainian - Native
+        
   </tr>
+
   <tr>
-    <td>🇬🇧 English - Intermediate</td>
+    
+        🇬🇧 English - Intermediate
+        
   </tr>
 </table>
+</div>
 
 ---
 
@@ -79,7 +86,7 @@
 
 ---
 
-<h3 align="left" style={ display: block;}>🎨 Favorite Projects</h3>
+<h2 align="left" style={ display: block;}>🎨 Favorite Projects</h2>
 <table>
   <tr>
     <td align="left">
