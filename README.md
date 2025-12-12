@@ -65,7 +65,7 @@
 
 ### GitHub Stats :
 
-<table align="center">
+<!-- <table align="center">
   <tr>
   <td>
 <a href="https://github.com/DenysHV1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DenysHV1&count_private=true&show_icons=true&include_all_commits=true" alt="DenysHV1 github stats" /></a>
@@ -74,7 +74,23 @@
   <a href="https://github.com/DenysHV1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHV1&layout=compact&theme=buefy&hide_border=true" /></a>
   </td>
   </tr>
+</table> -->
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/DenysHV1">
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=DenysHV1" alt="GitHub Trophy" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/DenysHV1">
+        <img align="center" src="https://streak-stats.demolab.com/?user=DenysHV1" alt="GitHub Streak Stats" />
+      </a>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
