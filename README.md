@@ -76,11 +76,13 @@
         <h4>🎞️ Online Cinema</h4>
         <p>Watch movies online with a modern UI. Built with React.</p>
         <a href="https://react-films-zeta.vercel.app/" target="_blank"><strong>Visit Project</strong></a>
+        <a href="https://github.com/DenysHV1/react-films" target="_blank"><strong>Code</strong></a>
       </td>
       <td align="left">
         <h4>📚 Personal Contact Book</h4>
         <p>Manage your contacts efficiently. Created using React and Redux.</p>
         <a href="https://contack-book-two.vercel.app/" target="_blank"><strong>Visit Project</strong></a>
+        <a href="https://github.com/DenysHV1/contack-book" target="_blank"><strong>Code</strong></a>
       </td>
     </tr>
     <tr>
@@ -88,11 +90,13 @@
         <h4>🌤 Weather App</h4>
         <p>A modern weather application</p>
         <a href="https://weather-app-nine-gamma-84.vercel.app/" target="_blank"><strong>Visit Project</strong></a>
+        <a href="https://github.com/DenysHV1/weather-app" target="_blank"><strong>Code</strong></a>
       </td>
       <td align="left">
         <h4>💧 Aquacoders</h4>
         <p>Team project</p>
         <a href="https://aquacoders.vercel.app/" target="_blank"><strong>Visit Project</strong></a>
+         <a href="https://github.com/Artur-Luniaka/aquacoders" target="_blank"><strong>Code</strong></a>
       </td>
     </tr>
   </table>
