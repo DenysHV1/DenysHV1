@@ -63,28 +63,6 @@
 ---
 
 
-### GitHub Stats :
-
-<!-- <table align="center">
-  <tr>
-  <td>
-<a href="https://github.com/DenysHV1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DenysHV1&count_private=true&show_icons=true&include_all_commits=true" alt="DenysHV1 github stats" /></a>
-  </td>
-  <td>
-  <a href="https://github.com/DenysHV1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHV1&layout=compact&theme=buefy&hide_border=true" /></a>
-  </td>
-  </tr>
-</table> -->
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/DenysHV1">
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=DenysHV1" alt="GitHub Trophy" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 
@@ -107,14 +85,14 @@
     </tr>
     <tr>
       <td align="left">
-        <h4>🎮 WinGameTrail</h4>
-        <p>Project for Evoplay company.</p>
-        <a href="https://denyshv1.github.io/wingametraill/" target="_blank"><strong>Visit Project</strong></a>
+        <h4>🌤 Weather App</h4>
+        <p>A modern weather application</p>
+        <a href="https://weather-app-nine-gamma-84.vercel.app/" target="_blank"><strong>Visit Project</strong></a>
       </td>
       <td align="left">
-        <h4>🌞 Weather App</h4>
-        <p>Get real-time weather updates with a clean UI.</p>
-        <a href="https://den-vik-weather.vercel.app/" target="_blank"><strong>Visit Project</strong></a>
+        <h4>💧 Aquacoders</h4>
+        <p>Team project</p>
+        <a href="https://aquacoders.vercel.app/" target="_blank"><strong>Visit Project</strong></a>
       </td>
     </tr>
   </table>
