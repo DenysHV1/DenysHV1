@@ -83,13 +83,9 @@
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=DenysHV1" alt="GitHub Trophy" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/DenysHV1">
-        <img align="center" src="https://streak-stats.demolab.com/?user=DenysHV1" alt="GitHub Streak Stats" />
-      </a>
-    </td>
   </tr>
 </table>
+
 
 
 ---
