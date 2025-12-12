@@ -4,7 +4,7 @@
 
 <div align="left">
   <p>
-    🌱 <strong>Currently learning:</strong> <span style="color: #61DAFB;">Node.js</span>
+    🌱 <strong>Currently learning:</strong> <span style="color: #61DAFB;">React Native</span>
   </p>
   <p>
     📫 <strong>Contact me:</strong> 
