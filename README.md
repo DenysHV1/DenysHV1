@@ -102,7 +102,16 @@
   </table>
 </div>
 
+---
+
 <h2 align="left">📌 All My Projects</h2>
 <p align="left">
   Check out all my projects <a href="https://denyshv1.github.io/DENYS_HV-PORTFOLIO/" target="_blank"><strong>in portfolio ⏬</strong></a>.
+</p>
+
+---
+
+<h2 align="left">📌 My CV</h2>
+<p align="left">
+   <a href="https://drive.google.com/file/d/1sqABenjF6tphHEokGlPXazTjh6QdgfpW/view" target="_blank"><strong>Visit</strong></a>.
 </p>
